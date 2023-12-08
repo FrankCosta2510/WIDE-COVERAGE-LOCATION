@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins';
+}
+
+
+header {
+
+    margin-top: 47px;
+    margin-left: 42px;
+    text-align: justify;
+    
+}
+div{
+margin-left: 100px;
+
+}
+h1 {
+    font-weight: 700;
+    width: 582px;
+    margin-top: 142px;
+    font-size: 62px;
+    color: #161a49;
+}
+
+p{
+    width: 493px;
+    height: 99px;
+    margin-top:50px;
+    
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 33px;
+    color:#4b505a
+}
+
+
+.link-header {
+    margin-right: 32px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.875px;
+    cursor: pointer;
+    color: #17233d;
+}
+
+.escreva-se {
+    background-color: #2ded2d;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 40px;
+    color: #ffffff;
+    cursor: pointer;
+    border-radius: 30px;
+}
+
+.imagem-logo {
+    display: inline-block;
+    display: flex;
+    width: 500px;
+    margin-top: 80px;
+    margin-left: 100px;
+}
+
+main {
+    display: inline-block;
+    display: flex;
+}
+
+.saber {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    cursor: pointer;
+    color: #6FBF44;
+}
